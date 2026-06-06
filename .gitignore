@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+.env
+
+data/raw/*.csv
+data/processed/*.csv
+
+.streamlit/
+
+.idea/
+.vscode/

@@ -1,0 +1,9 @@
+Resource_Name,Resource_Type,CPU_Usage,Memory_Usage,Monthly_Cost
+vm-prod-1,Virtual Machine,75,80,150
+vm-prod-2,Virtual Machine,8,25,120
+vm-dev-1,Virtual Machine,12,30,90
+vm-test-1,Virtual Machine,3,15,70
+db-prod-1,Database,85,90,250
+db-dev-1,Database,15,25,100
+storage-prod-1,Storage Account,0,0,80
+storage-dev-1,Storage Account,0,0,30

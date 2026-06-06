@@ -1,0 +1,6 @@
+VM_Name,CPU_Usage,Memory_Usage,Monthly_Cost,Recommendation
+vm-prod-1,8,25,120,Stop or Downsize VM
+vm-prod-2,75,80,150,Healthy Resource
+vm-test-1,3,15,90,Stop or Downsize VM
+vm-dev-1,12,30,110,Review VM Size
+vm-db-1,85,88,200,Scale Up VM

@@ -1,0 +1,9 @@
+Resource_Name,Resource_Type,Resource_ID
+aistorageomptimiser1,Microsoft.Storage/storageAccounts,/subscriptions/c1d21b22-45d6-4289-b08a-099b5c7dea3c/resourceGroups/AICloudOmptimizer/providers/Microsoft.Storage/storageAccounts/aistorageomptimiser1
+AICloudVM-ip,Microsoft.Network/publicIPAddresses,/subscriptions/c1d21b22-45d6-4289-b08a-099b5c7dea3c/resourceGroups/AICloudOmptimizer/providers/Microsoft.Network/publicIPAddresses/AICloudVM-ip
+AICloudVM-nsg,Microsoft.Network/networkSecurityGroups,/subscriptions/c1d21b22-45d6-4289-b08a-099b5c7dea3c/resourceGroups/AICloudOmptimizer/providers/Microsoft.Network/networkSecurityGroups/AICloudVM-nsg
+AICloudVM-vnet,Microsoft.Network/virtualNetworks,/subscriptions/c1d21b22-45d6-4289-b08a-099b5c7dea3c/resourceGroups/AICloudOmptimizer/providers/Microsoft.Network/virtualNetworks/AICloudVM-vnet
+aicloudvm509_z1,Microsoft.Network/networkInterfaces,/subscriptions/c1d21b22-45d6-4289-b08a-099b5c7dea3c/resourceGroups/AICloudOmptimizer/providers/Microsoft.Network/networkInterfaces/aicloudvm509_z1
+AICloudVM,Microsoft.Compute/virtualMachines,/subscriptions/c1d21b22-45d6-4289-b08a-099b5c7dea3c/resourceGroups/AICloudOmptimizer/providers/Microsoft.Compute/virtualMachines/AICloudVM
+AICloudVM_OsDisk_1_322ea913ecd3453ebdbd3296afc39fbe,Microsoft.Compute/disks,/subscriptions/c1d21b22-45d6-4289-b08a-099b5c7dea3c/resourceGroups/AICLOUDOMPTIMIZER/providers/Microsoft.Compute/disks/AICloudVM_OsDisk_1_322ea913ecd3453ebdbd3296afc39fbe
+NetworkWatcher_centralindia,Microsoft.Network/networkWatchers,/subscriptions/c1d21b22-45d6-4289-b08a-099b5c7dea3c/resourceGroups/NetworkWatcherRG/providers/Microsoft.Network/networkWatchers/NetworkWatcher_centralindia
